@@ -1,4 +1,4 @@
-//META{"name":"ExampleLibraryPlugin", "authorId":"429656649264005121", "invite":"pqPWfUzfm2", "website":"http://pcgamers.live/"}*//
+//META{"name":"ExampleLibraryPlugin", "authorId":"429656649264005121", "invite":"pqPWfUzfm2", "website":"https://github.com/mahdilupo/discord-fake-mute"}*//
 //import {DiscordModules as Modules} from "modules";
 class ExampleLibraryPlugin {
     
