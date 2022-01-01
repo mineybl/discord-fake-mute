@@ -5,9 +5,9 @@ fake mute youself and troll your friends!!!
 
 2: put FakeMute.plugin.js into better discord plugin folder
 
-3: mute youself enable and then disable plugin
+3: mute youself then enable and disable plugin from discord setting/plugins
 
-4: your good to go! you can speak without anybody knows who is talking
+4: your good to go! you can speak without anybody knows who is
 
 5: if you want to unmute yourself you should close and start discord or just CNTRL+R to reload discord
 
